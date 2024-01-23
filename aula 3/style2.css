@@ -1,0 +1,126 @@
+/* body {
+  display: grid;
+  background-color: #f7f7f7;
+  font-family: Arial;
+  justify-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  font-size: 20px;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0px;
+}
+
+ titulo bikcraft 
+.title {
+  display: flex;
+  justify-content: center;
+}
+.title img {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+ MENU 
+.menu {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: black;
+  padding: 15px 30px;
+  background-color: #fff;
+  border-radius: 4px;
+}
+
+ CONTEUDO 
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  position: relative;
+  max-width: 1000px;
+}
+
+.bloco1 {
+  display: grid;
+  align-content: center;
+  justify-items: end;
+  background: #fff;
+  padding: 40px;
+  text-align: right;
+  gap: 20px;
+}
+
+.bloco1 p {
+  line-height: 27px;
+}
+
+.bloco1 a {
+  background-color: #e21;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.bloco2 img {
+  width: 100%;
+  margin-bottom: -10px;
+}
+
+.bloco3 {
+  color: #c6c6c6;
+  text-align: end;
+  align-self: center;
+  padding: 40px;
+}
+
+.bloco3 h1 {
+  font-size: 64px;
+}
+.bloco4 {
+  padding: 40px;
+  background-color: #fff;
+  align-self: center;
+}
+
+.vantangens2 {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 10px 20px;
+  padding: 20px;
+}
+
+.vantangens2 p {
+  grid-column: 2;
+}
+
+.fundo {
+  width: 100%;
+  margin-top: 60px;
+  background-color: #fff;
+  padding: 40px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.enfeite {
+  width: 60px;
+  height: 4px;
+  background-color: #e21;
+  position: absolute;
+  right: 470px;
+  top: 30px;
+} */
